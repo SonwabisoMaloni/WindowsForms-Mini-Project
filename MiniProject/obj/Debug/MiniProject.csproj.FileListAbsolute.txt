@@ -1,0 +1,13 @@
+C:\Users\2449000\Downloads\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\2449000\Downloads\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\2449000\Downloads\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\2449000\Downloads\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.AssemblyReference.cache
+C:\Users\2449000\Downloads\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\2449000\Downloads\MiniProject\MiniProject\obj\Debug\MiniProject.Admin.resources
+C:\Users\2449000\Downloads\MiniProject\MiniProject\obj\Debug\MiniProject.Booking.resources
+C:\Users\2449000\Downloads\MiniProject\MiniProject\obj\Debug\MiniProject.LoginForm.resources
+C:\Users\2449000\Downloads\MiniProject\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+C:\Users\2449000\Downloads\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.cache
+C:\Users\2449000\Downloads\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\2449000\Downloads\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\2449000\Downloads\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
